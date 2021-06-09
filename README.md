@@ -1,1 +1,1 @@
-tuto_gitkraken: test
+tuto_gitkraken: test.t
